@@ -1,0 +1,18 @@
+*{
+    font-family: 'Times New Roman';
+    background-color: rgb(240, 236, 225);
+    text-align: center;
+}
+
+img{
+    width: 512px;
+    height: auto;
+}
+
+#mlist li{
+    text-align: center;
+}
+
+li{
+    text-align: start;
+}
